@@ -1,7 +1,9 @@
 {
     "name": "Chase the Pizza test 2",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3"
     },
     "description": "",
     "files": [
